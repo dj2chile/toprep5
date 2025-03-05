@@ -1,0 +1,32 @@
+[20-Feb-2025 23:39:25 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to private method DatabaseManager::handleException() from global scope in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php:130
+Stack trace:
+#0 /home/topserwis/domains/top-serwis.org/public_html/repairs/dashboard.php(3): require_once()
+#1 {main}
+  thrown in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php on line 130
+[20-Feb-2025 23:41:45 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to private method DatabaseManager::handleException() from global scope in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php:130
+Stack trace:
+#0 /home/topserwis/domains/top-serwis.org/public_html/repairs/dashboard.php(3): require_once()
+#1 {main}
+  thrown in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php on line 130
+[20-Feb-2025 23:42:45 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to private method DatabaseManager::handleException() from global scope in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php:130
+Stack trace:
+#0 /home/topserwis/domains/top-serwis.org/public_html/repairs/repair_details.php(13): require_once()
+#1 {main}
+  thrown in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php on line 130
+[20-Feb-2025 23:42:46 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to private method DatabaseManager::handleException() from global scope in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php:130
+Stack trace:
+#0 /home/topserwis/domains/top-serwis.org/public_html/repairs/dashboard.php(3): require_once()
+#1 {main}
+  thrown in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php on line 130
+[20-Feb-2025 23:42:47 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to private method DatabaseManager::handleException() from global scope in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php:130
+Stack trace:
+#0 /home/topserwis/domains/top-serwis.org/public_html/repairs/repair_details.php(13): require_once()
+#1 {main}
+  thrown in /home/topserwis/domains/top-serwis.org/public_html/repairs/config.php on line 130
+[20-Feb-2025 23:44:05 Europe/Warsaw] [2025-02-20 23:44:05] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:44:07 Europe/Warsaw] [2025-02-20 23:44:07] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:44:08 Europe/Warsaw] [2025-02-20 23:44:08] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:44:10 Europe/Warsaw] [2025-02-20 23:44:10] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:44:12 Europe/Warsaw] [2025-02-20 23:44:12] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:44:20 Europe/Warsaw] [2025-02-20 23:44:20] BŁĄD BAZY: Brakujące indeksy w repairs: status
+[20-Feb-2025 23:45:35 Europe/Warsaw] [2025-02-20 23:45:35] BŁĄD BAZY: Brakujące indeksy w repairs: status

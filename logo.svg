@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+    <!-- Tło -->
+    <path d="M50,20 L750,20 C765,20 780,35 780,50 L780,150 C780,165 765,180 750,180 L50,180 C35,180 20,165 20,150 L20,50 C20,35 35,20 50,20 Z" fill="#FF1493"/>
+    <path d="M150,40 L600,40 L600,160 L150,160 Z" fill="#87CEEB" transform="rotate(-15 375 100)"/>
+    <path d="M250,40 L700,40 L700,160 L250,160 Z" fill="#FFD700" transform="rotate(-15 475 100)"/>
+    
+    <!-- Dodaj obwolutę dla tekstu -->
+    <path d="M180,60 L620,60 L620,140 L180,140 Z" fill="white" opacity="0.9"/>
+    
+    <!-- Text -->
+    <text x="200" y="120" font-family="Arial Black" font-size="60" fill="black" style="font-weight: 900;">TOP-SERWIS</text>
+    <text x="200" y="160" font-family="Arial Black" font-size="40" fill="black" style="font-weight: 900;">.ORG</text>
+</svg>

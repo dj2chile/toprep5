@@ -1,0 +1,32 @@
+[2025-03-04 23:19:16] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-04 23:19:44] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-04 23:38:23] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-04 23:38:32] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-04 23:38:42] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-04 23:48:15] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-05 00:43:47] [SUCCESS] Repair ID: 715, Phone: 444555666, Message: Twoje urządzenie jest w trakcie naprawy. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=914047db742d71c6
+[2025-03-05 02:00:39] [SUCCESS] Repair ID: 690, Phone: 601773855, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=2a1107d5598575f3
+[2025-03-05 02:02:01] [SUCCESS] Repair ID: 690, Phone: 601773855, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=2a1107d5598575f3
+[2025-03-05 02:02:20] [SUCCESS] Repair ID: 690, Phone: 601773855, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=2a1107d5598575f3
+[2025-03-05 02:48:51] [SUCCESS] Repair ID: 719, Phone: 123123123, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=2efa1e663f74e9ff
+[2025-03-05 05:16:25] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Twoje urządzenie jest w trakcie naprawy. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:23:52] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Twoje urządzenie jest w trakcie naprawy. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:24:04] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:32:15] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Status Twojego urządzenia został zaktualizowany: Gotowa do odbioru. Szczegóły: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:32:26] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Status Twojego urządzenia został zaktualizowany: Gotowa do odbioru. Szczegóły: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:32:35] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Status Twojego urządzenia został zaktualizowany: Gotowe. Szczegóły: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:34:24] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Status Twojego urządzenia został zaktualizowany: Gotowa do odbioru. Szczegóły: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:34:41] [SUCCESS] Repair ID: 722, Phone: 333444555, Message: Status Twojego urządzenia został zaktualizowany: Gotowa do odbioru. Szczegóły: https://top-serwis.org/repairs/status.php?code=74025c66bad307a9
+[2025-03-05 05:40:15] [SUCCESS] Repair ID: 721, Phone: 678890890, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=223972061f1adfe1
+[2025-03-05 05:43:58] [SUCCESS] Repair ID: 721, Phone: 678890890, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o.! Status można sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=223972061f1adfe1
+[2025-03-05 06:57:21] [SUCCESS] Repair ID: 729, Phone: 533123330, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=cc9347ccead5a3c9
+[2025-03-05 07:36:38] [SUCCESS] Repair ID: 735, Phone: 123345456, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o. {address} 
+{opening_hours}
+[2025-03-05 07:38:18] [SUCCESS] Repair ID: 735, Phone: 123345456, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=47128310acb11e44
+[2025-03-05 07:38:33] [SUCCESS] Repair ID: 735, Phone: 123345456, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o. {address} 
+{opening_hours}
+[2025-03-05 08:02:34] [SUCCESS] Repair ID: 736, Phone: 456345234, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=6fb905c3ae5e1388
+[2025-03-05 08:05:33] [SUCCESS] Repair ID: 737, Phone: 123123345, Message: Twoje urządzenie jest gotowe do odbioru. Zapraszamy do TOP-SERWIS Sp. z o.o. ul. Szczecińska 8-10/15, 75-135 Koszalin 
+od poniedziałku do piątku 8:00 do 16:00
+[2025-03-05 08:05:46] [SUCCESS] Repair ID: 737, Phone: 123123345, Message: Oczekujemy na części do Twojego urządzenia. Status możesz sprawdzić tutaj: https://top-serwis.org/repairs/status.php?code=7996dbc94e75f772
+[2025-03-05 08:12:04] [SUCCESS] Repair ID: 737, Phone: 123123345, Message: Dziękujemy za skorzystanie z usług TOP-SERWIS Sp. z o.o.. Zapraszamy ponownie ;)
